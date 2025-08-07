@@ -32,4 +32,4 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mostafa-Zhran&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Zhran&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mostafa-Zhran&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Mostafa-Zhran&theme=radical)](https://git.io/streak-stats)
