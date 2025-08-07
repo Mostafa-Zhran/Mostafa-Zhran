@@ -10,7 +10,7 @@
 
 - ## 💻 Technical Skills
 
-- **Languages:** `C++`, `C#`, *HTML*, *CSS*, *JavaScript*
+- **Languages:** `C++`, `C#`, `HTML`, `CSS`, `JavaScript`
 - **Technologies:** *ASP.NET MVC Core*, *MySQL*
 - **Tools:** `Git`, `GitHub`, `SSMS`
 
