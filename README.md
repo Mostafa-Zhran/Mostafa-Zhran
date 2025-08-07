@@ -18,15 +18,18 @@
 
 ## 🔗 Links
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mostafa-tamer-zahran)
 [![Portfolio](https://img.shields.io/badge/Portfolio-800080?style=for-the-badge&logo=huggingface)](https://mostafazahran.netlify.app)
 
 ---
+##  Featured Projects
 
-## 📊 Stats
+- [Project‑Web](https://github.com/Mostafa‑Zhran/Project‑Web): HTML, CSS, JS  
+- [Tic‑Tac‑Tae](https://github.com/Mostafa‑Zhran/Tic‑Tac‑tae): JavaScript Game  
+- [WebScraping](https://github.com/Mostafa‑Zhran/WebScraping): Python scripting for automation  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+##  Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mostafa-Zhran&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Zhran&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mostafa-Zhran&theme=radical)
