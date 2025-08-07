@@ -18,8 +18,8 @@
 
 ## 🔗 Links
 
-[![LinkedIn](https://www.linkedin.com/in/mostafa-tamer-zahran)
-[![My Portfolio](https://mostafazahran.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile-link)
+[![Portfolio](https://img.shields.io/badge/Portfolio-800080?style=for-the-badge&logo=huggingface)](https://mostafazahran.netlify.app)
 
 ---
 
