@@ -6,8 +6,4 @@
 
 - **Software Engineer** Passionate About **Full Stack.net**
 - 2nd Year **Computer Science Student** @ *Arish University*
-- **.NET Web Developer Enrolled** @ [DEPI]([https://example.com](https://depi.gov.eg/content/home))
-  💻 Technical Skills
-Languages: C++, C#, SQL, HTML, CSS, JavaScript
-Technologies: ASP.NET MVC Core, MySQL
-Tools: Git, GitHub, Postman, SSMS
+- **.NET Web Developer Enrolled** @ [DEPI](https://depi.gov.eg/content/home)
