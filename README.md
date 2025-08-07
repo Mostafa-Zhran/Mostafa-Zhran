@@ -24,9 +24,9 @@
 ---
 ##  Featured Projects
 
-- [Project‑Web](https://github.com/Mostafa‑Zhran/Project‑Web): HTML, CSS, JS  
-- [Tic‑Tac‑Tae](https://github.com/Mostafa‑Zhran/Tic‑Tac‑tae): JavaScript Game  
-- [WebScraping](https://github.com/Mostafa‑Zhran/WebScraping): Python scripting for automation  
+- [MY Portfolio](https://github.com/Mostafa-Zhran/My_Protofolio): HTML, CSS, JS  
+- [Tic‑Tac‑Tae](https://github.com/Mostafa-Zhran/Tic-Tac-tae): HTML, CSS, JS -> Game  
+- [WebScraping](https://github.com/Mostafa-Zhran/WebScraping): Python scripting for automation  
 
 ##  Stats
 
