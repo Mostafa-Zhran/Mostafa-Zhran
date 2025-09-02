@@ -32,7 +32,7 @@
 ### `🛠️ Languages & Tools:`
 
   <p align="left">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,postman,,sqlserver,git,html,css,js"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,postman,sqlserver,git,html,css,js"/>
   </p>
 
 ---
