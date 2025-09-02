@@ -5,6 +5,11 @@
 
 <h2 align="center">Software Engineer | .NET Developer | Full Stack</h2>
 <br>
+  <p align="center">
+    <a href="https://www.google.com.eg/search?q=احمد+حميده+في+مجال+التكنولوجيا"> <!-- Google Me -->
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Visit%20my%20LinkedIn%20Profile;I%20Post%20Insightful%20Content;Follow%20to%20get%20New%20Updates&font=Bold%20Code&center=true&color=30F050&pause=2000">
+    </a>
+  </p>
 
 ### [📄 Check My CV]()
 
@@ -46,8 +51,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mostafa-Zhran&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Mostafa-Zhran&layout=compact&langs_count=6&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Mostafa-Zhran&theme=radical)](https://git.io/streak-stats)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mostafa-Zhran&layout=compact&langs_count=6&theme=highcontrast" width="400" height="200"/>
 
   <p align="left">
     <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"> <!-- Snake -->
