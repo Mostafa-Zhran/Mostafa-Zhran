@@ -1,6 +1,18 @@
 
 ![1721996890667](https://github.com/user-attachments/assets/2df9c1fe-8db4-4701-887b-72ee584b3ff8)
 ## Hi! 👋
+<h1 align="center">Hi, I'm Mostafa Zahran</h1>
+
+<h2 align="center">Software Engineer | .NET Developer | Full Stack</h2>
+<br>
+
+  <p align="left">
+      <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=flat&color=4010B0"/> <!-- Profile Views -->
+  </p>
+
+### [📄 Check My CV]()
+
+### [🌐 View My Portfolio](https://mostafazahran.netlify.app/)
 
 ### Who am I? 🧑‍💻
 
@@ -13,6 +25,12 @@
 - **Languages:** `C++`, `C#`, `HTML`, `CSS`, `JavaScript`
 - **Technologies:** *ASP.NET MVC Core*, *MySQL*
 - **Tools:** `Git`, `GitHub`, `SSMS`
+  
+### `🛠️ Languages & Tools:`
+
+  <p align="left">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,postman,swagger,sqlserver,redis,git,html,css,js,docker"/>
+  </p>
 
 ---
 
@@ -24,12 +42,16 @@
 ---
 ##  Featured Projects
 
-- [MY Portfolio](https://github.com/Mostafa-Zhran/My_Protofolio): HTML, CSS, JS  
-- [Tic‑Tac‑Tae](https://github.com/Mostafa-Zhran/Tic-Tac-tae): HTML, CSS, JS -> Game  
-- [WebScraping](https://github.com/Mostafa-Zhran/WebScraping): Python scripting for automation  
+- [E-Commerce_Platform](https://github.com/Mostafa-Zhran/E-commerce_Platform.git):   
+
 
 ##  Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mostafa-Zhran&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Zhran&layout=compact&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Mostafa-Zhran&theme=radical)](https://git.io/streak-stats)
+
+
+  <p align="left">
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"> <!-- Snake -->
+  </p>
