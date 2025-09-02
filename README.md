@@ -1,14 +1,10 @@
 
 ![1721996890667](https://github.com/user-attachments/assets/2df9c1fe-8db4-4701-887b-72ee584b3ff8)
 ## Hi! 👋
-<h1 align="center">Hi, I'm Mostafa Zahran</h1>
+<h1 align="center">I'm Mostafa Zahran</h1>
 
 <h2 align="center">Software Engineer | .NET Developer | Full Stack</h2>
 <br>
-
-  <p align="left">
-      <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=flat&color=4010B0"/> <!-- Profile Views -->
-  </p>
 
 ### [📄 Check My CV]()
 
