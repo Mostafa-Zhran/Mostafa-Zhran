@@ -44,7 +44,7 @@
 ##  Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mostafa-Zhran&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Mostafa-Zhran&layout=compact&langs_count=6&theme=highcontrast)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Mostafa-Zhran&layout=compact&langs_count=6&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Mostafa-Zhran&theme=radical)](https://git.io/streak-stats)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mostafa-Zhran&layout=compact&langs_count=6&theme=highcontrast" width="400" height="200"/>
