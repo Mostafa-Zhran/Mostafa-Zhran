@@ -47,7 +47,8 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Zhran&layout=compact&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Mostafa-Zhran&theme=radical)](https://git.io/streak-stats)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&layout=compact&langs_count=6&theme=highcontrast" height="125"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mostafa-Zhran&layout=compact&langs_count=6&theme=highcontrast" width="400" height="200"/>
+
   <p align="left">
     <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"> <!-- Snake -->
   </p>
