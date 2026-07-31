@@ -9,7 +9,7 @@ Hi 👋, I'm Mostafa Zahran
 </h1>
 
 <h3 align="center">
-Software Engineer • Backend .NET Developer • TIEC Innovation Ambassador Volunteer
+Software Engineer • Backend .NET Developer • Problem Solver
 </h3>
 
 <p align="center">
