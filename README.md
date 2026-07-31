@@ -46,24 +46,16 @@ Software Engineer • Backend .NET Developer • TIEC Innovation Ambassador Volu
 
 ---
 
-## 🏆 Achievements
-
-- 🥇 **TIEC Innovation Ambassadors 2026** *(Top 150 / 2000+)*
-- 🚀 **.NET Trainee** @ Digital Egypt Pioneers Initiative (DEPI)
-- 💡 **NTI Trainee**
-- 🤖 Participant at **AI Summit – Mansoura University**
-
----
 
 ## 💻 Tech Stack
 
 | Category | Technologies |
 |-----------|--------------|
 | **Languages** | C#, SQL, JavaScript, HTML, CSS, C++ |
-| **Backend** | ASP.NET Core, Web API, MVC, EF Core, LINQ, SignalR, JWT |
-| **Frontend** | HTML, CSS, Bootstrap, JavaScript, React |
-| **Database** | SQL Server, MySQL |
-| **Architecture** | Clean Architecture, Onion, N-Tier, SOLID |
+| **Backend** | ASP.NET Core, Web API, MVC, EF Core, LINQ, JWT |
+| **Frontend** | HTML, CSS, Bootstrap, JavaScript, React, Vite |
+| **Database** | SQL Server, Supabase |
+| **Architecture** | Clean Architecture, N-Tier, SOLID |
 | **Tools** | Visual Studio, VS Code, Git, GitHub, Docker, Postman, Swagger |
 
 <br>
