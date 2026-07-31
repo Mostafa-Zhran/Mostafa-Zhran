@@ -4,16 +4,22 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Mostafa%20Zahran&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Backend%20.NET%20Developer%20%E2%80%A2%20Problem%20Solver&descAlignY=62&descSize=20" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Mostafa Zahran</h1>
+<h1 align="center">
+Hi 👋, I'm Mostafa Zahran
+</h1>
 
 <h3 align="center">
-Software Engineer | Backend .NET Developer | TIEC Innovation Ambassador Volunteer
+Software Engineer • Backend .NET Developer • TIEC Innovation Ambassador Volunteer
 </h3>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=650&lines=Backend+.NET+Developer;Building+RESTful+APIs;Clean+Architecture+Enthusiast;Always+Learning+New+Technologies" />
 
-<p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=650&lines=Building+Scalable+RESTful+APIs;Clean+Architecture+Enthusiast;Open+Source+Learner;Always+Learning+New+Technologies" />
+</p>
+
+<p align="center">
+
 <a href="https://www.linkedin.com/in/mostafa-tamer-zahran">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://mostafa-zahran.netlify.app/">
@@ -21,14 +27,12 @@ Software Engineer | Backend .NET Developer | TIEC Innovation Ambassador Voluntee
 </a>
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=Mostafa-Zhran&style=for-the-badge"/>
 
 </p>
-
-</div>
 
 ---
 
