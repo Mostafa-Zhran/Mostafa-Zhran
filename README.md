@@ -62,7 +62,7 @@ Software Engineer • Backend .NET Developer • TIEC Innovation Ambassador Volu
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,git,github,docker,postman,mysql,html,css,js,bootstrap,react"/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,git,github,docker,postman,Subabase,html,css,js,bootstrap,react"/>
 
 </div>
 
