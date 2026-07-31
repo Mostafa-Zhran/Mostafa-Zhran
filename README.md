@@ -6,8 +6,9 @@
 
 <h1 align="center">Hi 👋, I'm Mostafa Zahran</h1>
 
-##### Software Engineer | Backend .NET Developer | Volunteer at TIEC Innovation Ambassadors 
-
+<h3 align="center">
+Software Engineer | Backend .NET Developer | TIEC Innovation Ambassador Volunteer
+</h3>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=650&lines=Backend+.NET+Developer;Building+RESTful+APIs;Clean+Architecture+Enthusiast;Always+Learning+New+Technologies" />
 
 <p>
