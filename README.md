@@ -69,13 +69,14 @@ Software Engineer • Backend .NET Developer • TIEC Innovation Ambassador Volu
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mostafa-Zhran&theme=tokyonight"/>
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mostafa-Zhran&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Zhran&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mostafa-Zhran&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mostafa-Zhran&theme=tokyonight"/>
+</p>
 
 ---
 
