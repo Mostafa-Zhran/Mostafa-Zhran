@@ -22,11 +22,11 @@ Software Engineer • Backend .NET Developer • TIEC Innovation Ambassador Volu
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://mostafa-zahran.netlify.app/">
+<a href="[https://mostafa-zahran.netlify.app/](https://mostafa-zaharn.vercel.app/)">
 <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:mostafazahran724@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
