@@ -1,5 +1,7 @@
 <div align="center">
+<div>
 <img src="./images/banner.png" width="100%" alt="Mostafa Zahran Banner"/>
+</div>
 # Hi 👋, I'm Mostafa Zahran
 
 ### Backend .NET Developer | ASP.NET Core | Clean Architecture | SQL Server
