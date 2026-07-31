@@ -1,7 +1,7 @@
 <!-- ======================= Banner ======================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Mostafa%20Zahran&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Backend%20.NET%20Developer%20|%20ASP.NET%20Core%20|%20Clean%20Architecture&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Mostafa%20Zahran&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Backend%20.NET%20Developer%20%E2%80%A2%20Problem%20Solver&descAlignY=62&descSize=20" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Mostafa Zahran</h1>
